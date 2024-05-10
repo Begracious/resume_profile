@@ -15,13 +15,13 @@ PAGE_TITLE = "Digital CV | Begracious Sipho Musa Mnguni"
 PAGE_ICON = ":wave:"
 NAME = "Begracious Sipho Musa Mnguni"
 DESCRIPTION = """
-Junior Developer/ Junior Data Engineer, assisting enterprises by supporting data-driven decision-making.
+Developer/ Data Engineer, assisting enterprises by supporting data-driven decision-making.
 """
 EMAIL = "begraciousmm@gmail.com"
 SOCIAL_MEDIA = {
-    "LinkedIn": "https://linkedin.com",
-    "GitHub": "https://github.com",
-    "Twitter": "https://twitter.com",
+    "LinkedIn": "https://www.linkedin.com/in/begracious-mnguni-b3473b237/",
+    "GitHub": "https://github.com/Begracious",
+    
 }
 PROJECTS = {
     "🏆 Blind Scanner Application - Application to assist blind people to do shopping on thier own" : "",
